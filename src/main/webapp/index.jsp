@@ -1,5 +1,5 @@
 <html>
 <body>
-  <h3>First Commit</h3>
+  <h3>Changes Commit</h3>
 </body>
 </html>
